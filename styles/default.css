@@ -1,0 +1,79 @@
+body {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+a {text-decoration: none;}
+a:link {color: #336699;}
+a:visited {color: #6699CC;}
+a:hover {color: #333333;}
+a:focus {color: #333333;}
+a:active {color: #009900;}
+.centered {
+    text-align: center;
+}
+.small {
+    font-size: 80%;
+}
+.linespace {
+    padding-top: 12px;
+}
+.indent {
+    margin-left: 32px;
+}
+.indent2 {
+    margin-left: 64px;
+}
+.indent3 {
+    margin-left: 96px;
+}
+.indent4 {
+    margin-left: 128px;
+}
+.indent5 {
+    margin-left: 160px;
+}
+.indent6 {
+    margin-left: 192px;
+}
+.indent7 {
+    margin-left: 214px;
+}
+.excerpt {
+    margin-left: 32px;
+    margin-right: 32px;
+    border: 1px solid black;
+    padding: 4px;
+    background-color: #eee;
+}
+
+.redtext {
+    color: red;
+}
+
+.tablestyle {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tablestyle td, .tablestyle th {
+    border: 1px solid #ddd;
+    padding: 8px;
+    vertical-align: top;
+}
+
+.tablestyle tr:nth-child(even){background-color: #f2f2f2;}
+
+.tablestyle tr:hover {background-color: #ddd;}
+
+.tablestyle th {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    text-align: left;
+    background-color: #336699;
+    color: white;
+}
+
+h1, h2, h3, h4 {
+    color: #369;
+}

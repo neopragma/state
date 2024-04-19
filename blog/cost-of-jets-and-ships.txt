@@ -1,0 +1,113 @@
+Fighter jets
+
+aerotime.aero
+
+mainstream
+30 million - 110 million
+
+outliers
+20 million 
+160 million
+
+mainstream average: 70 million 
+
+x 900 = $63 billion
+
+
+forbes.com
+
+fighter pilots
+
+lives: priceless
+training: between 5.6 and 10.9 million per Rand Corp.
+
+average: 8.25 million 
+
+x 1300 (many are 2-seaters) = 10.725 billion
+
+
+
+fighterjetsworld.com
+
+operating costs
+
+F-22A $33,528 / hr
+F-35A $28,455 / hr
+F-16 $8,000 / hr
+AV08B Harrier 13.700 / hr
+FA-18F $10,500 / hr
+
+average of those: $22,802
+
+x 20 hours in theater: $456,044
+
+x 1800 aircraft (900 represents expeted losses of 50%): $820,879,200
+
+$63,000,000,000 equipment
+$10,725,000,000 pilot training
+$   820,879,200 operational cost
+
+$75,545,879,200 total loss
+
+
+Additional costs:
+
+Reduced capacity to deal with other threats
+Cost of rebuilding the fleet
+Cost of training new pilots
+
+=====
+
+US Navy losses
+
+Issue: $2.5 billion (60%) of DoD transfer authority was shifted to build the border wall under Pres. Trump.
+The Navy has been short of funds for maintenance. The fleet may not be in optimal operating condition.
+See: https://www.defensenews.com/naval/2019/08/19/despite-record-budgets-the-us-navy-is-short-hundreds-of-millions-for-maintenance/
+
+stripes.com
+
+Frigates and destroyers cost between about $1.2 billion and $2 billion. 
+
+Aircraft carriers coast about $12 to $13 billion.
+
+War simulations to repel an invasion of Taiwan predict losses of 150 ships, but public reports do not specify which types.
+
+Assuming the loss of 149 frigates and destroyers at an average cost of $1.6 billion, and 1 carrier at a cost of $12.5 billion,
+that would mean just the equipment lost would represent a value of $14.1 billion. 
+
+This does not consider training costs, maintenance costs, or operating costs. 
+
+$14,100,000,000
+
+=====
+
+tradingeconomics.com
+
+Impact on Taiwan economy
+
+2022 GDP about $700 billion (0.59% of the world economy)
+
+After successful defense against Chinese invasion: $0 
+
+Net loss: $700 billion in the first year
+
+
+Future impact: China still capable of launching an invasion in future
+
+====
+
+Estimated cost of the war: 
+
+$ 75,545,879,200 Air Force and Navy fighter jets
+$ 14,100,000,000 Navy ships
+$700,000,000,000 destruction of Taiwanese economy and infrastructure
+
+$789,645,879,200 immediate losses (not counting longer term costs)
+
+
+
+
+
+
+
+

@@ -1,0 +1,1 @@
+document.getElementById("purpose").textContent="The purpose of the State is to establish and sustain conditions under which Americans can live according to their own values and exercise their individual liberty without external interference.";
